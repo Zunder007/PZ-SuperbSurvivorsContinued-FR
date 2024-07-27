@@ -1,0 +1,5 @@
+Recipes_FR = {
+	Recipe_Add_Cross_to_Grave = "Ajouter une croix à la tombe",
+	Recipe_Dig_Grave = "Creuser une tombe",
+	Recipe_Dig_Grave_with_Cross = "Creuser une tombe avec une croix",
+}
