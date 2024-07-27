@@ -109,5 +109,7 @@ IGUI_FR = {
 		IGUI_SS_IDontKnowHowFarming = "Je ne sais pas comment faire des cultures"
 	--[[END not able to do]]--
 
-}
 
+	IGUI_SS_UndressingClothes = "*Se déshabille*",
+	IGUI_SS_EveryOneUseMelee = "Que tout le monde utilise des armes de mêlée!",
+}
