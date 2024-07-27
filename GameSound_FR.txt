@@ -655,6 +655,12 @@ GameSound_Dialogues_FR = {
 		GameSound_Dialogues_SS_Greetings38 = "Bien sûr que je me joins à vous. Évitez juste d'être mordu.",
 		GameSound_Dialogues_SS_Greetings39 = "T'as pas été mordu, n'est-ce pas? Juste pour être sûr.",
 		GameSound_Dialogues_SS_Greetings40 = "Tu n'as pas encore l'air d'un Zed. Tu veux faire équipe?",
+		GameSound_Dialogues_SS_Greetings41 = "",
+		GameSound_Dialogues_SS_Greetings42 = "",
+		GameSound_Dialogues_SS_Greetings43 = "",
+		GameSound_Dialogues_SS_Greetings44 = "",
+		GameSound_Dialogues_SS_Greetings45 = "",
+		GameSound_Dialogues_SS_Greetings46 = "",
 
 		GameSound_Dialogues_SS_NameText1 = "Mon nom c'est ",
 		GameSound_Dialogues_SS_NameText2 = "Mon nom est ",
@@ -1014,8 +1020,9 @@ GameSound_Dialogues_FR = {
 		GameSound_Dialogues_SS_Screem22 = "Je vais mourrir! JE VAIS MOURRIR!",
 		GameSound_Dialogues_SS_Screem23 = "Ahh! Aidez-moi! AHHHH!",
 
-		GameSound_Dialogues_SS_IAttackFoodThief = "C'est tout!?! Sortez de là!"
+		GameSound_Dialogues_SS_IAttackFoodThief = "C'est tout!?! Sortez de là!",
 	--[[END combat]]--
 
+		GameSound_Dialogues_SS_SSick1 = "",
+		GameSound_Dialogues_SS_SSick2 = "",
 }
-
