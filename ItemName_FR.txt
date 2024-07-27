@@ -1,0 +1,7 @@
+ItemName_FR = {
+	ItemName_Survivors.Bleach = "Eau de Javel",
+	ItemName_Survivors.Cigarettes = "Cigarettes",
+	ItemName_Survivors.Grave = "Tombe",
+	ItemName_Survivors.GraveCross = "Croix funéraire",
+	ItemName_Survivors.Teabag2 = "Sachet de thé",
+}
