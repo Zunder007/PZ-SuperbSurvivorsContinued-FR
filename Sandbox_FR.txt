@@ -93,4 +93,16 @@ Sandbox_FR = {
 	
 	Sandbox_SuperbSurvivorsContinued_IsDisplayingHostileColor = "Display Hostile NPC Colors",
 	Sandbox_SuperbSurvivorsContinued_IsDisplayingHostileColor_tooltip = "If On, hostile npcs will appear with their name and text in red.",
+
+	Sandbox_SuperbSurvivorsContinued_Limit_Npcs_Global = "Soft Cap GLOBAL Limit NPC Spawns",
+	Sandbox_SuperbSurvivorsContinued_Limit_Npcs_Global_tooltip = "Soft Maximum number of NPCs that can be alive in-game anywhere on the map. Not exactly... There can be up to the maximum + Max Group Size in the game because NPCs are created in batches",
+
+	Sandbox_SuperbSurvivorsContinued_Limit_Npcs_Active = "Soft Cap Limit ACTIVE NPC Spawns",
+	Sandbox_SuperbSurvivorsContinued_Limit_Npcs_Active_tooltip = "Soft Maximum number of NPCs that can be active in-game (active in a cell). Not exactly... There can be up to the maximum + Max Group Size in the game because NPCs are created in batches",
+
+	Sandbox_SuperbSurvivorsContinued_ConfigMaxAIAttackRange = "Max NPC Attack Range",
+	Sandbox_SuperbSurvivorsContinued_ConfigMaxAIAttackRange_tooltip = "Max squares an NPC is allowed to shoot their weapon to. Ie. 20 = 20 squares",
+
+	Sandbox_SuperbSurvivorsContinued_NpcSpawnDistance = "Npc Spawn Distance",
+	Sandbox_SuperbSurvivorsContinued_NpcSpawnDistance_tooltip = "Rough range at which NPCS spawn around the player. Use 20 or 30 when using Potato PC on Better FPS. Values too high will prevent NPCs from spawning",
 }
